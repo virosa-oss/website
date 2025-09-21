@@ -11,6 +11,9 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
     "astro": "^5.13.7",
+    "nano-analytics": "^1.0.0",
+    "nano-custom": "^1.0.0",
+    "nano-insights": "^1.0.0",
     "tailwindcss": "^4.1.13"
   }
 }
